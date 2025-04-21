@@ -19,7 +19,7 @@ A flight booking website that allows users to search and book one-way, round-tri
 ## Features Covered
 
 - Round trip.
-- One way trip.
+- One-way trip.
 - Multi-city travel.
 
 
@@ -34,7 +34,7 @@ git clone https://github.com/your-username/your-repository-name.git
 4.	Open the project in Eclipse.
 5.	Make sure Maven is installed and configured.
 6.	Update Maven dependencies (Right-click on project > Maven > Update Project).
-7.  Java and Selenium basics recommended for understanding
+7.  Java and Selenium basics are recommended for understanding
 
     
 ## Running Tests
@@ -44,7 +44,7 @@ git clone https://github.com/your-username/your-repository-name.git
 -	From Eclipse:
     Right-click on test classes → Run As → TestNG Test
 -	Test execution reports will be generated automatically.
--   The test can also be run using mvn from commad prompt by running the below code: 
+-   The test can also be run using mvn from the command prompt by running the code below: 
 ```bash
 mvn test
 ```
@@ -93,10 +93,12 @@ mvn test
 ```
 ## Screenshots
 - Extent Report
-
+![image](https://github.com/user-attachments/assets/6229565f-7784-4471-b4fd-029abb960016)
 -Jenkins(CI/CD)
 ![image](https://github.com/user-attachments/assets/2d7cfff1-cbac-4dd7-af34-4e7149ee9840)
--Webhooks
+-QA ClickJet
+![image](https://github.com/user-attachments/assets/41b17493-2a75-4c73-a8be-576f3fbbd217)
+
 
 
 
