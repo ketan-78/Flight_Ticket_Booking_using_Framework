@@ -94,9 +94,9 @@ mvn test
 ## Screenshots
 - Extent Report
 ![image](https://github.com/user-attachments/assets/6229565f-7784-4471-b4fd-029abb960016)
--Jenkins(CI/CD)
+- Jenkins(CI/CD)
 ![image](https://github.com/user-attachments/assets/2d7cfff1-cbac-4dd7-af34-4e7149ee9840)
--QA ClickJet
+- QA ClickJet
 ![image](https://github.com/user-attachments/assets/41b17493-2a75-4c73-a8be-576f3fbbd217)
 
 
